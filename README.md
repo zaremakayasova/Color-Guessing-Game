@@ -18,11 +18,11 @@ The game is hosted on netlify and can be accessed at the following web address: 
 
 ![easyMode](https://user-images.githubusercontent.com/71195337/106394575-47db5700-63cb-11eb-86d0-59800953f89f.png)
 
-#### The Correct Attempt
+#### Correct Attempt
 
 ![CorrectAttempt](https://user-images.githubusercontent.com/71195337/106394585-617c9e80-63cb-11eb-88d3-b5d9c70d5ccc.png)
 
-#### The Wrong Attempt
+#### Wrong Attempt
 
 ![WrongAttempt](https://user-images.githubusercontent.com/71195337/106394602-6e00f700-63cb-11eb-91cc-05a33d687368.png)
 
